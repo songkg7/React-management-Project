@@ -1,6 +1,6 @@
 ## Management System
 
-고객 관리 시스템(Management System)
+본 프로그램은 연습용으로 제작한 고객 관리 시스템(Management System)입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
